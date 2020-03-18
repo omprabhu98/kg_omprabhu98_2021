@@ -1,1 +1,1 @@
-"# dummy commit" 
+# This is my first commit. I used a 2-D array to hold mappings of letters and booleans on whether the character in string 2 has been mapped. Correct for most tests cases, but there are a few test cases that fail
